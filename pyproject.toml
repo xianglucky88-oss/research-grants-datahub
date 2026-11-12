@@ -1,0 +1,7 @@
+[project]
+name = "research-grants-datahub"
+version = "0.1.0"
+requires-python = ">=3.11"
+
+[project.scripts]
+research-grants-datahub = "research_grants.cli:main"

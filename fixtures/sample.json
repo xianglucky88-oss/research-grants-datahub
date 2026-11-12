@@ -1,0 +1,57 @@
+[
+  {
+    "source": "funding-board",
+    "observed_at": "2026-11-01T09:00:00Z",
+    "payload": {
+      "project_id": "G-001",
+      "title": "River Sensor Network",
+      "institution": "North University",
+      "principal_investigator": "A. Chen",
+      "status": "awarded",
+      "award_amount": 1200000,
+      "start_date": "2026-01-01",
+      "end_date": "2028-12-31"
+    }
+  },
+  {
+    "source": "funding-board",
+    "observed_at": "2026-11-01T09:05:00Z",
+    "payload": {
+      "project_id": "G-002",
+      "title": "Urban Mobility Model",
+      "institution": "City Institute",
+      "principal_investigator": "B. Lin",
+      "status": "active",
+      "award_amount": 800000,
+      "start_date": "2025-06-01",
+      "end_date": "2027-05-31"
+    }
+  },
+  {
+    "source": "university",
+    "observed_at": "2026-11-01T09:10:00Z",
+    "payload": {
+      "project_id": "G-003",
+      "title": "Open Research Archive",
+      "institution": "East College",
+      "principal_investigator": "C. Wang",
+      "status": "completed",
+      "award_amount": 0,
+      "start_date": "2024-01-01",
+      "end_date": "2025-12-31"
+    }
+  },
+  {
+    "source": "funding-board",
+    "observed_at": "2026-11-01T09:15:00Z",
+    "payload": {
+      "project_id": "G-004",
+      "title": "",
+      "institution": "Unknown",
+      "status": "active",
+      "award_amount": -1,
+      "start_date": "2026-01-01",
+      "end_date": "2025-01-01"
+    }
+  }
+]
